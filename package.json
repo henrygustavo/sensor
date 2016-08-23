@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/henrygustavo/sensor#readme",
   "dependencies": {
-    "express": "^4.14.0"
+    "express": "^4.14.0",
+    "nodemailer": "^2.5.0",
+    "rpi-gpio": "^0.7.0"
   }
 }
